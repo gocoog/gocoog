@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Blog posts workflow
 on:
   schedule:
     # Runs every hour
@@ -11,4 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gocoog/blog-post-workflow@main
         with:
+          max_post_count: "4" 
           feed_list: "https://medium.com/feed/@reyes.wilmar"
