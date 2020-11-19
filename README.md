@@ -26,6 +26,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Networking Tips I’ve Learned About For New Tech Grads](https://medium.com/@reyes.wilmar/5-networking-tips-ive-learned-about-for-new-tech-grads-28ff73c9e8bc?source=rss-85f680c74ae8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
