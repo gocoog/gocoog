@@ -26,6 +26,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple contact form for your React site without a backend](https://medium.com/@reyes.wilmar/simple-contact-form-for-your-react-site-without-a-backend-ca60a4c3a05?source=rss-85f680c74ae8------2)
 - [5 Networking Tips I’ve Learned About For New Tech Grads](https://medium.com/@reyes.wilmar/5-networking-tips-ive-learned-about-for-new-tech-grads-28ff73c9e8bc?source=rss-85f680c74ae8------2)
 <!-- BLOG-POST-LIST:END -->
 
